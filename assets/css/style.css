@@ -1,0 +1,61 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: greenyellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    position: relative;
+    left: 950px;
+    bottom: 527px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+h2 {
+    position: relative;
+    left: 680px;
+    bottom: 230px;
+    font-size: 160%;
+}
+
+h3 {
+    font-size: 150%;
+}
+
+p {
+    font-size: 125%;
+}
+
+.bigger-font-size {
+    font-size: 150%;
+}
+
+.inline {
+    display: inline-block;
+}
+
+#copyright {
+    text-align: center;
+}
+
+.button {
+    background-color: blue;
+    font-size: 18px;
+    height: 35px;
+}
+
+.register {
+    text-align: center;
+}
+
+.follow {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
