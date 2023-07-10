@@ -6,9 +6,9 @@ The goal of dogwalkershub.de is to connect dog owners who need help with walking
 ## User Stories
 
 ### As a Dog Lover Who Cannot Own a Dog:
-I want to quickly find a dog in my city to walk regularly or from time to time. 
-I want to follow the social media channels of the hub. 
-I want to be able to get in touch with the site administration by sending emails. 
+* I want to quickly find a dog in my city to walk regularly or from time to time. 
+* I want to follow the social media channels of the hub. 
+* I want to be able to get in touch with the site administration by sending emails. 
 
 ### As a Dog Owner Who Needs Help with Walking My Dog: 
 I want to have my dog added to the list of dogs by using the form. 
