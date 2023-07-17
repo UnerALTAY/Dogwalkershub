@@ -66,18 +66,15 @@ p {
     font-size: 150%;
 }
 
-.inline {
-    display: inline-block;
+#contactus {
+    margin-top: 250px;
+    margin-bottom: 250px;
 }
 
 #copyright {
     text-align: center;
-}
-
-.button {
-    background-color: blue;
-    font-size: 18px;
-    height: 35px;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
 
 .register {
@@ -90,19 +87,38 @@ p {
     right: 0;
 }
 
-.dogscontainer {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.followus {
+    position: absolute;
+    position: center;
 }
 
-.cardholders {
+.fa fa-facebook {
+    padding-left: 50px;
+}
+
+/*.dogscontainer {
     width: 100%;
     display: flex;
-    flex-direction: column;
+    /*flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+}*/
+
+.cardholders1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /*flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;*/
+}
+
+.cardholders2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
 }
