@@ -58,6 +58,11 @@ h3 {
     font-size: 150%;
 }
 
+#ourdogs {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
 p {
     font-size: 125%;
 }
@@ -67,13 +72,7 @@ p {
 }
 
 #contactus {
-    margin-top: 250px;
-    margin-bottom: 250px;
-}
-
-#copyright {
-    text-align: center;
-    margin-top: 40px;
+    margin-top: 80px;
     margin-bottom: 20px;
 }
 
@@ -94,6 +93,13 @@ p {
 
 .fa fa-facebook {
     padding-left: 50px;
+}
+
+#copyright {
+    text-align: left;
+    font-weight: 1000;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
 
 /*.dogscontainer {
