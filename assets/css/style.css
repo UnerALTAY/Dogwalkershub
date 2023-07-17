@@ -48,14 +48,22 @@ nav {
 }
 
 h2 {
+    /*position: relative;*/
+    position: absolute;
+    text-align: center;
     position: relative;
-    left: 680px;
+    top: 15px;
+    /*left: 680px;
     bottom: 230px;
-    font-size: 160%;
+    font-size: 160%;*/
 }
 
 h3 {
     font-size: 150%;
+}
+
+#aboutus {
+    margin-top: 80px;
 }
 
 #ourdogs {
