@@ -92,15 +92,9 @@ textarea {
     margin-top: 10px;
 }
 
-.follow {
-    position: absolute;
-    top: 0;
-    right: 0;
-}
-
 .followus {
-    position: absolute;
-    position: center;
+    text-align: center;
+    margin-top: 40px;
 }
 
 .fa fa-facebook {
@@ -108,9 +102,9 @@ textarea {
 }
 
 #copyright {
-    text-align: left;
+    text-align: center;
     font-weight: 1000;
-    margin-top: 40px;
+    margin-top: 80px;
     margin-bottom: 20px;
 }
 
