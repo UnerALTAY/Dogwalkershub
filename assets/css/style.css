@@ -101,9 +101,7 @@ textarea {
     margin-top: 40px;
 }
 
-.fa fa-facebook {
-    padding-left: 50px;
-}
+
 
 #copyright {
     text-align: center;
@@ -113,9 +111,9 @@ textarea {
 }
 
 /*.dogscontainer {
-    width: 100%;
+    min-height: 300px;
     display: flex;
-    /*flex-direction: column;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }*/
