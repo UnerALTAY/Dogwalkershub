@@ -40,7 +40,7 @@ h1 {
 
 nav {
     position: relative;
-    left: 950px;
+    left: 1000px;
     bottom: 527px;
     position: fixed;
     top: 0;
@@ -86,6 +86,10 @@ p {
 
 .register {
     text-align: center;
+}
+
+textarea {
+    margin-top: 10px;
 }
 
 .follow {
