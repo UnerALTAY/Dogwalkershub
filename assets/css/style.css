@@ -18,6 +18,10 @@ body {
     align-items: center;
 }
 
+#hero-img {
+    margin-top: 80px;
+}
+
 main {
     width: 100%;
     display: flex;
